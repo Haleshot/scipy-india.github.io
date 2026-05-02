@@ -13,6 +13,12 @@ extensions = [
 ]
 
 html_static_path = ["_static"]
+html_js_files = [
+    (
+        "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/js/brands.min.js",
+        {"defer": "defer"},
+    ),
+]
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 html_show_sourcelink = False
@@ -52,13 +58,13 @@ html_theme_options = {
         {
             "name": "Zulip",
             "url": "https://scipyindia.zulipchat.com/join/4mesdxfbbpl4titgtdzx4iwv/",
-            "icon": "fas fa-comments",
+            "icon": "fa-brands fa-zulip",
             "type": "fontawesome",
         },
         {
             "name": "Bluesky",
             "url": "https://bsky.app/profile/scipyindia.bsky.social",
-            "icon": "fas fa-cloud",
+            "icon": "fa-brands fa-bluesky",
             "type": "fontawesome",
         },
         {
