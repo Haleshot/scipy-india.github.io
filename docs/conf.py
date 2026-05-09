@@ -15,6 +15,7 @@ extensions = [
 
 html_static_path = ["_static"]
 html_extra_path = ["_extra"]
+html_css_files = ["custom.css"]
 html_js_files = [
     (
         "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/js/brands.min.js",
@@ -34,13 +35,13 @@ html_sidebars = {
 
 myst_enable_extensions = ["colon_fence", "deflist"]
 
-html_logo = "_static/scipy-india-logo.svg"
-html_favicon = "_static/scipy-india-logo.svg"
+html_logo = "_static/logo.svg"
+html_favicon = "_static/logo.svg"
 
 html_theme_options = {
     "logo": {
-        "image_light": "_static/scipy-india-logo.svg",
-        "image_dark": "_static/scipy-india-logo.svg",
+        "image_light": "_static/logo.svg",
+        "image_dark": "_static/logo.svg",
         "alt_text": "SciPy India logo",
     },
     "navbar_start": ["navbar-logo"],
