@@ -4,6 +4,7 @@ date: 2026-02-21
 author: Srihari Thyagarajan, Agriya Khetarpal
 category: Debrief
 tags: [meetup, bangpypers, bengaluru, offline]
+description: An afternoon in Bengaluru with talks on reliable LLM systems, NumPy maintenance, Python metaprogramming, and lightning talks.
 ---
 
 # SciPy India × BangPypers Meetup, February 2026
@@ -17,8 +18,8 @@ There's been a [running conversation](https://github.com/scipy-india/planning/is
 - **Date**: February 21st, 2026
 - **Time**: 11:00 to 14:30 IST
 - **Venue**: [Amadeus Software Labs India Pvt Ltd, Kadubeesanahalli, Marathahalli, Bengaluru](https://osmapp.org/node/4672131190)
-- **Meetup page**: [SciPy India × BangPypers meetup](https://www.meetup.com/bangpybers/events/311155506/)
-- **Photos**: [Meetup photos](https://www.meetup.com/bangpybers/photos/35845246/)
+- **Meetup page**: [SciPy India × BangPypers meetup](https://www.meetup.com/bangpypers/events/311155506/)
+- **Photos**: [Meetup photos](https://www.meetup.com/bangpypers/photos/35845246/)
 
 ## Photo album
 
