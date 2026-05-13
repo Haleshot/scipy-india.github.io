@@ -1,3 +1,9 @@
+---
+myst:
+  html_meta:
+    "description": "SciPy India — discover events, read community updates, and stay connected with the scientific Python ecosystem in India."
+---
+
 # SciPy India
 
 Discover events, read community updates, and stay connected with the scientific Python ecosystem in India.
@@ -33,6 +39,7 @@ Details to be announced. Watch this space.
 ```{image} _static/partner-logos/psf.svg
 :alt: Python Software Foundation
 :height: 100px
+:width: 264px
 :target: https://www.python.org/psf
 :class: mb-3 no-scaled-link partner-logo
 ```
@@ -43,18 +50,11 @@ SciPy India is an [official community partner](https://www.python.org/psf/commun
 :::{grid-item-card}
 :text-align: center
 
-```{image} _static/partner-logos/fossunited-dark.svg
-:alt: FOSS United Foundation
-:height: 100px
-:target: https://fossunited.org/c/scipy-india
-:class: only-light mb-3 no-scaled-link partner-logo
-```
-
-```{image} _static/partner-logos/fossunited-light.svg
-:alt: FOSS United Foundation
-:height: 100px
-:target: https://fossunited.org/c/scipy-india
-:class: only-dark mb-3 no-scaled-link partner-logo
+```{raw} html
+<a href="https://fossunited.org/c/scipy-india" aria-label="FOSS United Foundation">
+  <img alt="" class="only-light mb-3 no-scaled-link partner-logo" src="_static/partner-logos/fossunited-dark.svg" style="height: 100px;" />
+  <img alt="" class="only-dark mb-3 no-scaled-link partner-logo" src="_static/partner-logos/fossunited-light.svg" style="height: 100px;" />
+</a>
 ```
 
 We are incubated and supported by [the FOSS United Foundation](https://fossunited.org), a Section 8 non-profit organisation that aims to promote and strengthen the Free and Open Source Software (FOSS) ecosystem in India.
@@ -72,7 +72,7 @@ We are incubated and supported by [the FOSS United Foundation](https://fossunite
 :alt: FOSSEE
 :width: 200px
 :target: https://fossee.in
-:class: me-4 partner-logo no-scaled-link
+:class: mb-3 partner-logo no-scaled-link
 ```
 
 ```{image} _static/partner-logos/iitb.svg
