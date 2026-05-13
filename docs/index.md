@@ -1,8 +1,8 @@
 # SciPy India
 
-Discover events, read community updates, and stay connected with the local scientific Python ecosystem.
+Discover events, read community updates, and stay connected with the scientific Python ecosystem in India.
 
-[View events](events/index) · [Read the blog](blog/index) · [Join our Zulip](https://scipyindia.zulipchat.com/join/4mesdxfbbpl4titgtdzx4iwv/)
+[About us](about) • [View events](events/index) • [Read the blog](blog/index) • [Join our Zulip](https://scipyindia.zulipchat.com/join/4mesdxfbbpl4titgtdzx4iwv/)
 
 ## Upcoming events
 
@@ -13,7 +13,7 @@ Discover events, read community updates, and stay connected with the local scien
 :link: events/2026/2026-scipy-india-conference
 :link-type: doc
 
-**Date**: Coming soon | **Location**: TBA
+**Date**: Coming soon, in late 2026 | **Location**: TBA
 
 Details to be announced. Watch this space.
 :::
@@ -91,6 +91,7 @@ The [FOSSEE project](https://fossee.in) at the Indian Institute of Technology, B
 :hidden:
 :maxdepth: 1
 
+About us <about>
 events/index
 blog/index
 contact
