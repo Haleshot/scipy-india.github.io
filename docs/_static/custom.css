@@ -166,6 +166,20 @@ html[data-theme="dark"] .bd-content .sci-team-grid .sd-card-img-top {
   color: #fff;
 }
 
+.sci-collab-event-actions-disabled {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0.65rem 1rem;
+  border: 1px solid var(--pst-color-border);
+  border-radius: 999px;
+  background: var(--pst-color-surface-secondary, transparent);
+  color: var(--pst-color-text-muted);
+  font-weight: 700;
+  cursor: not-allowed;
+}
+
 [data-theme="dark"] .sci-collab-event-hero {
   background: var(--pst-color-surface);
   background:
